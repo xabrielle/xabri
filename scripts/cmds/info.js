@@ -39,13 +39,13 @@ module.exports = {
         unit: fast.UNITS.Mbps
       });
     const result = await speedTest.getSpeed();
-    const botName = global.GoatBot.config.nickNameBot;
-    const botPrefix = global.GoatBot.config.prefix;
-    const authorName = global.GoatBot.config.authorName;
-    const authorFB = global.GoatBot.config.authorFB;
-    const authorInsta = "https://www.instagram.com/xnil867";
-    const authorEmail = global.GoatBot.config.authorEmail;
-    const authorGithub = "https://github.com/X-nil143";
+    const botName = global.GoatBot.config.nickNameBot;Lilith(⁠≧⁠▽⁠≦⁠)
+    const botPrefix = global.GoatBot.config.prefix;"/"
+    const authorName = global.GoatBot.config.authorName;Apple Yparraguirre 
+    const authorFB = global.GoatBot.config.authorFB;https://www.facebook.com/aravz.zzz
+    const authorInsta = "aravzv";
+    const authorEmail = null;
+    const authorGithub = "null";
     const status = "𝙎𝙞𝙣𝙜𝙡𝙚";
     const timeStart = Date.now();
 
